@@ -1,1 +1,1 @@
-include ':app', ':nexuslib'
+include ':app'
